@@ -65,7 +65,7 @@ body {
      box-shadow: inset -1px 0 10px hsla(0,0%,20%,1);
 }
  #chat-input-field {
-     color: #888 !important;
+     color: #eee !important;
      font-weight: bold;
 }
  #chat-input-field:focused {
