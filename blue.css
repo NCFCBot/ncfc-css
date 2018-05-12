@@ -1334,4 +1334,5 @@ max-width: 200px;
 
 .user-level.role-bouncer .circular-progress {
      background-blend-mode: unset!important;
+     background: #5DB4FF!important;
 }
