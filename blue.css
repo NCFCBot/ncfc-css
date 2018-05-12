@@ -42,8 +42,11 @@ body {
  .icon {
      background-image: url('https://i.imgur.com/N6wm8u9.png');
 }
- .community #chat, .community__left-nav, .community #user-lists, .community #waitlist, .community .friends, #rcs-menu, #user-view #user-menu, .user-level-dropdown__bottom, .user-profile-dropdown, .user-level-dropdown, .community .room-controls--desktop {
+ .community #chat, .community__left-nav, .community #user-lists, .community #waitlist, .community .friends, #rcs-menu, #user-view #user-menu, .user-level-dropdown__bottom, .user-profile-dropdown, .user-level-dropdown {
      background: rgb(30, 35, 40);
+}
+.community .room-controls--desktop {
+     background: rgb(30,35,40,0.7)!important;
 }
  .community #chat #chat-header {
      background: rgba(30,35,40,0.7);
