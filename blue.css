@@ -1302,7 +1302,7 @@ body {
 @media (min-width:992px) {
     [data-view=room] .bottom__playback-meta {
         margin: 0;
-        width: 100%
+        width: 50%
     }
 }
 
