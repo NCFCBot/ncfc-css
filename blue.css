@@ -172,7 +172,7 @@ body {
  #chat .emote .text {
      font-style: oblique !important;
 }
- // Random // .fa-thumbs-up:before {
+.fa-thumbs-up:before {
      content: "";
 }
  .community .room-controls--desktop__item .btn-like.clicked {
