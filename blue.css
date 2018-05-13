@@ -1333,9 +1333,4 @@ max-width: 200px;
      80% {color: #0000ff;}
      90% {color: #8000ff;}
      100% {color: #ff0080;}
-}  
-
-.user-level.role-bouncer .circular-progress {
-     background-blend-mode: unset!important;
-     background: #5DB4FF!important;
 }
