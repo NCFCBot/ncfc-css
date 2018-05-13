@@ -8,7 +8,7 @@ body {
  #app .logo-wrapper .plugdj-logo {
      width: 30px;
      height: 30px;
-     background: url('http://i.imgur.com/rdBsAX6.png') no-repeat 0 0;
+     background: url('https://i.imgur.com/rdBsAX6.png') no-repeat 0 0;
 }
  .community .community__top, #header-panel-bar.right-meta, .bottom__playback-meta, .bottom__playback-controls {
      background: linear-gradient(hsl(210, 10%, 20%), hsl(210, 10%, 10%));
@@ -294,7 +294,7 @@ body {
      background: linear-gradient(hsla(20,90%,50%,0.8), hsla(20,90%,40%,0.8)) !important;
 }
  .user-content .avatars .cell:hover .top, .user-content .avatars .cell.selected .top {
-     background: linear-gradient(rgba(0,0,0,0)70%, hsla(0,0%,100%,0.2) 80%), url(http://i.imgur.com/X3dKn08.png) !important;
+     background: linear-gradient(rgba(0,0,0,0)70%, hsla(0,0%,100%,0.2) 80%), url(https://i.imgur.com/X3dKn08.png) !important;
 }
  .user-content .badges .cell {
      background: radial-gradient(hsl(210,10%,10%), hsl(210,10%,5%)) !important;
@@ -352,7 +352,7 @@ body {
 }
 /*#####[HOST]#####*/
  .icon-chat-host {
-     background: url(http://i.imgur.com/zIAEqAk.png);
+     background: url(https://i.imgur.com/zIAEqAk.png);
      background-position: 2px 0 !important;
 }
  .icon-chat-host + span, #user-lists .group.host ~ .user span, #dialog-user-role .role-menu .menu ul .host span {
@@ -365,7 +365,7 @@ body {
 }
 /*#####[CO-HOSTS]#####*/
  .icon-chat-cohost {
-     background: url(http://i.imgur.com/zIAEqAk.png);
+     background: url(https://i.imgur.com/zIAEqAk.png);
      background-position: 2px 0 !important;
 }
  .icon-chat-cohost + span, #dialog-user-role .dialog-body .role-menu .menu ul .cohost span {
@@ -373,7 +373,7 @@ body {
 }
 /*#####[MANAGER]#####*/
  .icon-chat-manager {
-     background: url(http://i.imgur.com/snaSrTN.png);
+     background: url(https://i.imgur.com/snaSrTN.png);
      background-position: 2px 0 !important;
 }
  .icon-chat-manager + span, #user-lists .group.manager ~ .user span, #dialog-user-role .role-menu .menu ul .manager span {
@@ -385,7 +385,7 @@ body {
 }
 /*#####[BOUNCER]#####*/
  .icon-chat-bouncer {
-     background: url(http://i.imgur.com/X4rU7r5.png);
+     background: url(https://i.imgur.com/X4rU7r5.png);
      background-position: 1px 0 !important;
 }
  .icon-chat-bouncer + span, #user-lists .group.bouncer ~ .user span, #dialog-user-role .role-menu .menu ul .bouncer span {
@@ -397,7 +397,7 @@ body {
 }
 /*#####[DJ]#####*/
  .icon-chat-dj {
-     background: url(http://i.imgur.com/HIUTGdj.png);
+     background: url(https://i.imgur.com/HIUTGdj.png);
      background-position: 0 0 !important;
 }
  #user-lists .group.dj {
@@ -409,7 +409,7 @@ body {
 }
 /*#####[SUBS]#####*/
  .icon-chat-subscriber, #user-rollover .meta.subscriber .status i {
-     background: url(http://i.imgur.com/MqlDbT7.png);
+     background: url(https://i.imgur.com/MqlDbT7.png);
      background-position: -1px 0 !important;
 }
  #user-lists .group {
@@ -808,7 +808,7 @@ max-width: 200px;
 #user-rollover.id-4718010 .badge-box > i.bdg,
 .id-4718010 > .badge-box > i.bdg
 {
-    background-image:    url("http://i.imgur.com/IAIbpf2.png");
+    background-image:    url("https://i.imgur.com/IAIbpf2.png");
     border-radius: 6px;
 }
 
@@ -816,7 +816,7 @@ max-width: 200px;
 #user-rollover.id-13495048 .badge-box > i.bdg,
 .id-13495048 > .badge-box > i.bdg
 {
-    background-image:    url("http://i.imgur.com/8KeRnIn.png");
+    background-image:    url("https://i.imgur.com/8KeRnIn.png");
     border-radius: 6px;
 }
 
@@ -830,7 +830,7 @@ max-width: 200px;
 #user-rollover.id-5012291 .badge-box > i.bdg,
 .id-5012291 > .badge-box > i.bdg
 {
-    background-image:    url("http://i.imgur.com/roVddqX.jpg");
+    background-image:    url("https://i.imgur.com/roVddqX.jpg");
     border-radius: 6px;
 }
 
@@ -838,7 +838,7 @@ max-width: 200px;
 #user-rollover.id-5857599 .badge-box > i.bdg,
 .id-5857599 > .badge-box > i.bdg
 {
-    background-image:    url("http://i.imgur.com/QKdVvjR.png");
+    background-image:    url("https://i.imgur.com/QKdVvjR.png");
     border-radius: 6px;
 }
 
@@ -846,7 +846,7 @@ max-width: 200px;
 #user-rollover.id-3127225 .badge-box > i.bdg,
 .id-3127225 > .badge-box > i.bdg
 {
-    background-image:    url("http://i.imgur.com/p0rv7OB.gif");
+    background-image:    url("https://i.imgur.com/p0rv7OB.gif");
     border-radius: 6px;
 }
 
@@ -881,11 +881,11 @@ max-width: 200px;
 }
 
 #user-rollover.id-4701536 > .info > .role .icon { 
-     background: url(http://i.imgur.com/zIAEqAk.png) !important; 
+     background: url(https://i.imgur.com/zIAEqAk.png) !important; 
 }
 
 #user-rollover.id-4701536 > .info > .role:hover .icon { 
-     background: url(http://i.imgur.com/IO84f0g.png) !important; 
+     background: url(https://i.imgur.com/IO84f0g.png) !important; 
 }
 
 
@@ -893,7 +893,7 @@ max-width: 200px;
 #user-rollover.id-6043453 .badge-box > i.bdg,
 .id-6043453 > .badge-box > i.bdg
 {
-    background-image:    url("http://i.imgur.com/CC1CeXW.gif");
+    background-image:    url("https://i.imgur.com/CC1CeXW.gif");
     border-radius: 6px;
 }
 
@@ -901,7 +901,7 @@ max-width: 200px;
 #user-rollover.id-5887173 .badge-box > i.bdg,
 .id-5887173 > .badge-box > i.bdg
 {
-    background-image:    url("http://i.imgur.com/wJdzfn5.jpg");
+    background-image:    url("https://i.imgur.com/wJdzfn5.jpg");
     border-radius: 6px;
 }
 
@@ -909,7 +909,7 @@ max-width: 200px;
 #user-rollover.id-4878561 .badge-box > i.bdg,
 .id-4878561 > .badge-box > i.bdg
 {
-    background-image:    url("http://i.imgur.com/CIWzqAh.png");
+    background-image:    url("https://i.imgur.com/CIWzqAh.png");
     border-radius: 6px;
 }
 
@@ -917,7 +917,7 @@ max-width: 200px;
 #user-rollover.id-5371734 .badge-box > i.bdg,
 .id-5371734 > .badge-box > i.bdg
 {
-    background-image:    url("http://i.imgur.com/PDtPIlv.gif");
+    background-image:    url("https://i.imgur.com/PDtPIlv.gif");
     border-radius: 6px;
 }
 
@@ -925,7 +925,7 @@ max-width: 200px;
 #user-rollover.id-6464162 .badge-box > i.bdg,
 .id-6464162 > .badge-box > i.bdg
 {
-    background-image:    url("http://i.imgur.com/FTzOHRn.gif");
+    background-image:    url("https://i.imgur.com/FTzOHRn.gif");
     border-radius: 6px;
 }
 
@@ -946,7 +946,7 @@ max-width: 200px;
 #user-rollover.id-5255539 .badge-box > i.bdg,
 .id-5255539 > .badge-box > i.bdg
 {
-    background-image:    url("http://i.imgur.com/KvuuIeF.png");
+    background-image:    url("https://i.imgur.com/KvuuIeF.png");
     border-radius: 6px;
 }
 
@@ -954,7 +954,7 @@ max-width: 200px;
 #user-rollover.id-5042697 .badge-box > i.bdg,
 .id-5042697 > .badge-box > i.bdg
 {
-    background-image:    url("http://i.imgur.com/OX24Vmb.png");
+    background-image:    url("https://i.imgur.com/OX24Vmb.png");
     border-radius: 6px;
 }
 
@@ -962,7 +962,7 @@ max-width: 200px;
 #user-rollover.id-17385879 .badge-box > i.bdg,
 .id-17385879 > .badge-box > i.bdg
 {
-    background-image:    url("http://i.imgur.com/qMYtUHq.png");
+    background-image:    url("https://i.imgur.com/qMYtUHq.png");
     border-radius: 6px;
 }
 
@@ -970,7 +970,7 @@ max-width: 200px;
 #user-rollover.id-5981628 .badge-box > i.bdg,
 .id-5981628 > .badge-box > i.bdg
 {
-    background-image:    url("http://i.imgur.com/YfoNjAf.png");
+    background-image:    url("https://i.imgur.com/YfoNjAf.png");
     border-radius: 6px;
 }
 
@@ -1004,11 +1004,11 @@ max-width: 200px;
 }
 
 #user-rollover.id-6432868 > .info > .role .icon { 
-     background: url(http://i.imgur.com/zIAEqAk.png) !important; 
+     background: url(https://i.imgur.com/zIAEqAk.png) !important; 
 }
 
 #user-rollover.id-6432868 > .info > .role:hover .icon { 
-     background: url(http://i.imgur.com/IO84f0g.png) !important; 
+     background: url(https://i.imgur.com/IO84f0g.png) !important; 
 }
 
 /* sakeyrad */
@@ -1041,7 +1041,7 @@ max-width: 200px;
 #user-rollover.id-13570537 .badge-box > i.bdg,
 .id-13570537 > .badge-box > i.bdg
 {
-    background-image:    url("http://i.imgur.com/VjGWvJz.png");
+    background-image:    url("https://i.imgur.com/VjGWvJz.png");
     border-radius: 6px;
 }
 
@@ -1049,7 +1049,7 @@ max-width: 200px;
 #user-rollover.id-4554889 .badge-box > i.bdg,
 .id-4554889 > .badge-box > i.bdg
 {
-    background-image:    url("http://i.imgur.com/ZuZyMsn.png");
+    background-image:    url("https://i.imgur.com/ZuZyMsn.png");
     border-radius: 6px;
 }
 
@@ -1057,7 +1057,7 @@ max-width: 200px;
 #user-rollover.id-4329684 .badge-box > i.bdg,
 .id-4329684 > .badge-box > i.bdg
 {
-    background-image:    url("http://i.imgur.com/lB7f583.jpg");
+    background-image:    url("https://i.imgur.com/lB7f583.jpg");
     border-radius: 6px;
 }
 
@@ -1094,7 +1094,7 @@ max-width: 200px;
 #user-rollover.id-5752899 .badge-box > i.bdg,
 .id-5752899 > .badge-box > i.bdg
 {
-    background-image:    url("http://i.imgur.com/CIWzqAh.png");
+    background-image:    url("https://i.imgur.com/CIWzqAh.png");
     border-radius: 6px;
 }
 
@@ -1110,7 +1110,7 @@ max-width: 200px;
 #user-rollover.id-16498004 .badge-box > i.bdg,
 .id-16498004 > .badge-box > i.bdg
 {
-    background-image:    url("http://i.imgur.com/korXddY.jpg");
+    background-image:    url("https://i.imgur.com/korXddY.jpg");
     border-radius: 6px;
 }
 
@@ -1168,7 +1168,7 @@ max-width: 200px;
 }
 
 #user-rollover.id-21226293 > .info > .role .icon { 
-     background: url(http://i.imgur.com/HIUTGdj.png) !important; 
+     background: url(https://i.imgur.com/HIUTGdj.png) !important; 
 }
 
 #user-rollover.id-21226293 > .info > .role:hover .icon { 
