@@ -561,7 +561,7 @@ body {
 }
 }
 
-@media (min-width: 1080px) {
+@media (max-width: 1080px) {
 .community__right-bar, #user-lists, #waitlist, .community .friends, #rcs-menu {
     height: 93.8%!important;
 }
