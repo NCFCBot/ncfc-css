@@ -563,13 +563,13 @@ body {
 
 @media (min-width: 1200px) {
 .community__right-bar, #user-lists, #waitlist, .community .friends, #rcs-menu {
-    height: 93.2%!important;
+    height: 92.33%!important;
 }
 }
 
 @media (min-width: 1600px) {
 .community__right-bar, #user-lists, #waitlist, .community .friends, #rcs-menu {
-    height: 93.2%!important;
+    height: 92.33%!important;
 }
 }
 
