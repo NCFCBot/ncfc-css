@@ -1116,6 +1116,10 @@ body {
     visibility: hidden;
 }
 
+#user-rollover.id-4881577 .status {
+    visibility: hidden;
+}
+
 #user-rollover.id-4701536 .status:after {
     background-image: url(https://i.imgur.com/c1j7TYK.png);
     background-repeat: no-repeat;
@@ -1123,7 +1127,7 @@ body {
     display: inline-block;
     color: #ffffff!important;
     font-weight: 500;
-    margin: 0px 0px 0 -90px!important;
+    margin: 0px 0px 0 -15px!important;
     padding: 0 0 0 20px;
     font-size: 15px;
     animation: rainbow 10s infinite;
@@ -1137,7 +1141,7 @@ body {
     display: inline-block;
     color: #ffffff!important;
     font-weight: 500;
-    margin: 0px 0px 0 -90px!important;
+    margin: 0px 0px 0 -15px!important;
     padding: 0 0 0 20px;
     font-size: 15px;
     animation: rainbow 10s infinite;
