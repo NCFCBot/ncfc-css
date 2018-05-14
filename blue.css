@@ -602,7 +602,7 @@ body {
 }
 
 .friends .jspContainer {
-     height: 730px;
+     height: 730px!important;
 }
 
 /* Badges */
