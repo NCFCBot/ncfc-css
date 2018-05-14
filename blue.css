@@ -601,6 +601,10 @@ body {
 	}
 }
 
+.friends .jspContainer {
+     height: 730px;
+}
+
 /* Badges */
 
 /* Staff */
