@@ -567,6 +567,12 @@ body {
 }
 }
 
+@media (min-width: 1600px) {
+.community__right-bar, #user-lists, #waitlist, .community .friends, #rcs-menu {
+    height: 93.2%!important;
+}
+}
+
 @media (min-width: 1800px) {
 .community__right-bar, #user-lists, #waitlist, .community .friends, #rcs-menu {
     height: 93.8%!important;
