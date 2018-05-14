@@ -565,7 +565,7 @@ body {
 
 @media (min-width: 768px) {
 	.community__playlist--desktop {
-		max-width: 220px!important;
+		max-width: 100%!important;
 	}
 }
 
