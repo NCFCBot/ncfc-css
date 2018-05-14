@@ -565,6 +565,12 @@ body {
 	display: none!important;
 }
 
+@media (min-width: 768px) {
+[data-view=room] .bottom__playback-meta {
+	width: 30%;
+	}
+}
+
 /* Badges */
 
 /* Staff */
