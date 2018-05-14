@@ -549,6 +549,22 @@ body {
      font-weight: 500;
 }
 
+@media (min-width: 768px) {
+.community__right-bar {
+    height: 91%;
+}
+}
+
+@media (min-width: 992px) {
+.community__bottom {
+    width: 100%;
+}
+}
+
+#rs-toggle-sidebar {
+	display: none!important;
+}
+
 /* Badges */
 
 /* Staff */
