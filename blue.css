@@ -611,6 +611,18 @@ body {
 }
 }
 
+@media (min-width: 1800px) {
+.friends .jspContainer {
+    height: 730px!important;
+}
+}
+
+@media (min-width: 1920px) {
+.friends .jspContainer {
+    height: 730px!important;
+}
+}
+
 /* Badges */
 
 /* Staff */
