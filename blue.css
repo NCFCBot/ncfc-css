@@ -552,7 +552,7 @@ body {
 .community__playlist--desktop {
     padding: 12px 10px;
     display: none;
-    max-width: 280px;
+    max-width: 100%!important;
 }
 
 @media (min-width:992px) {
