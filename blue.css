@@ -555,6 +555,18 @@ body {
 }
 }
 
+@media (min-width: 900px) {
+.community__right-bar, #user-lists, #waitlist, .community .friends, #rcs-menu {
+    height: 93.2%!important;
+}
+}
+
+@media (min-width: 1080px) {
+.community__right-bar, #user-lists, #waitlist, .community .friends, #rcs-menu {
+    height: 93.8%!important;
+}
+}
+
 @media (min-width: 992px) {
 .community__bottom {
     width: 100%;
