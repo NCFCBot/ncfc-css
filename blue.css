@@ -1150,8 +1150,16 @@ body {
     visibility: hidden;
 }
 
+#user-rollover.id-4701536 .meta .status span {
+     display: none;
+}
+
 #user-rollover.id-4881577 .status {
     visibility: hidden;
+}
+
+#user-rollover.id-4881577 .meta .status span {
+     display: none;
 }
 
 #user-rollover.id-4701536 .status:after {
