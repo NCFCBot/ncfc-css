@@ -711,7 +711,6 @@ body {
     [data-view=room] .bottom__playback-meta {
         display: flex;
         position: relative;
-        /* background-color:#000; */
         padding: 0 15px;
         margin: 0;
         background: linear-gradient(hsla(210, 10%, 20%, 0.8), hsla(210, 10%, 10%, 0.8));
