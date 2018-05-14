@@ -564,8 +564,8 @@ body {
 }
 
 @media (min-width: 768px) {
-	.community__playlist--desktop {
-		max-width: 100%!important;
+[data-view=room] .bottom__playback-meta {
+	max-width: 100%!important;
 	}
 }
 
