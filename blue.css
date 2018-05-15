@@ -353,7 +353,6 @@ body {
 /*#####[HOST]#####*/
  .icon-chat-host {
      background: url(https://i.imgur.com/zIAEqAk.png);
-     background-position: 2px 0 !important;
 }
  .icon-chat-host + span, #user-lists .group.host ~ .user span, #dialog-user-role .role-menu .menu ul .host span {
      color: #db182e !important;
@@ -366,7 +365,6 @@ body {
 /*#####[CO-HOSTS]#####*/
  .icon-chat-cohost {
      background: url(https://i.imgur.com/zIAEqAk.png);
-     background-position: 2px 0 !important;
 }
  .icon-chat-cohost + span, #dialog-user-role .dialog-body .role-menu .menu ul .cohost span {
      color: #db182e !important;
@@ -374,7 +372,6 @@ body {
 /*#####[MANAGER]#####*/
  .icon-chat-manager {
      background: url(https://i.imgur.com/snaSrTN.png);
-     background-position: 2px 0 !important;
 }
  .icon-chat-manager + span, #user-lists .group.manager ~ .user span, #dialog-user-role .role-menu .menu ul .manager span {
      color: #ab48c7 !important;
@@ -386,7 +383,6 @@ body {
 /*#####[BOUNCER]#####*/
  .icon-chat-bouncer {
      background: url(https://i.imgur.com/X4rU7r5.png);
-     background-position: 1px 0 !important;
 }
  .icon-chat-bouncer + span, #user-lists .group.bouncer ~ .user span, #dialog-user-role .role-menu .menu ul .bouncer span {
      color: #5DB4FF !important;
