@@ -1150,6 +1150,32 @@ body {
     border-radius: 6px;
 }
 
+/* Custom Ranks */
+
+/* WindWalk */
+#user-rollover.id-4881577 .level:after {
+    background-image: url("http://icons.iconarchive.com/icons/yusuke-kamiyamane/fugue/16/wrench-screwdriver-icon.png");
+    background-repeat: no-repeat;
+    content: "BotDev";
+    display: inline-block;
+    color: #eee!important;
+    font-weight: 400;
+    margin: 0px 0px 0 20px!important;
+    padding: 0 0 0 19px;
+}
+
+/* Izzie */
+#user-rollover.id-6464162 .level:after {
+    background-image: url("http://icons.iconarchive.com/icons/yusuke-kamiyamane/fugue/16/wrench-screwdriver-icon.png");
+    background-repeat: no-repeat;
+    content: "BotDev";
+    display: inline-block;
+    color: #eee!important;
+    font-weight: 400;
+    margin: 0px 0px 0 20px!important;
+    padding: 0 0 0 19px;
+}
+
 /* HAPPY BIRTHDAY */
 
 #user-rollover.id-4701536 .status {
