@@ -406,11 +406,16 @@ body {
 /*#####[SUBS]#####*/
  .icon-chat-subscriber, #user-rollover .meta.subscriber .status i {
      background: url(https://i.imgur.com/MqlDbT7.png);
-     background-position: -1px 0 !important;
+}
+
+#user-rollover .meta .status i {
+	 top: -2px!important;
+	 left: 2px!important;
 }
  #user-lists .group {
      border: none !important;
      box-shadow: 0 0 1px 1px;
+}
 }
  #user-lists .user:hover {
      background: linear-gradient(to right, hsla(200,100%,20%,0.5), hsla(200,100%,40%,0.5)) !important;
