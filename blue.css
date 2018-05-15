@@ -605,6 +605,12 @@ body {
      height: 730px!important;
 }
 
+@media (min-width: 1200px) {
+.friends .jspContainer {
+     height: 465px!important;
+}
+}
+
 @media (min-width: 1600px) {
 .friends .jspContainer {
     height: 554px!important;
