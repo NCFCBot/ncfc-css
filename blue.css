@@ -346,7 +346,7 @@ body {
 .grid .cell .bar,
 .grid .cell .meta,
 #user-friends .row {
-     background: linear-gradient(hsl(210,10%,15%), hsl(210,10%,10%)) !important;
+     background: rgb(30, 35, 40)!important;
 }
 .grid .cell .meta .host {
      text-align: center;
