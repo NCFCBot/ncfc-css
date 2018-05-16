@@ -384,13 +384,16 @@ body {
      background: linear-gradient(hsla(20,90%,50%,0.8), hsla(20,90%,40%,0.8)) !important;
 }
 .user-content .avatars .cell:hover .top,
-.user-content .avatars .cell.selected .top,
-.user-content .badges .cell:hover,
-#user-store .badges .cell:hover,
-.user-content .badges .cell.selected
+.user-content .avatars .cell.selected .top
  {
      background: rgb(30, 35, 40)!important;
      border: 1px solid rgb(1, 91, 158);
+}
+
+.user-content .badges .cell:hover,
+#user-store .badges .cell:hover,
+.user-content .badges .cell.selected {
+	 border: 1px solid rgb(1, 91, 158);
 }
 
 .grid .cell .top .expires,
