@@ -1210,23 +1210,11 @@ margin-left: 0px!important;
     content:'Manager';
     display:block;
     line-height: initial;
-        color: #AB48C6;
-}
-
-#user-rollover.id-4881577 > .info > .role:hover span:after {
-    text-indent:0;
-    content:'Site Moderator';
-    display:block;
-    line-height: initial;
-        color: #e74c3c;
+    color: #AB48C6;
 }
 
 #user-rollover.id-4881577 > .info > .role .icon { 
     background: url(https://i.imgur.com/QE08WvR.png) !important; 
-}
-
-#user-rollover.id-4881577 > .info > .role:hover .icon { 
-    background: url(https://i.imgur.com/I4xLq31.png) !important; 
 }
 
 /* The_Local_CorgiDerp */
