@@ -335,8 +335,7 @@ body {
      font-weight: bold;
 }
 .grid .cell {
-     border-radius: 30px;
-     background: radial-gradient(hsl(220,50%,40%), hsl(220,50%,20%)) !important;
+     background: linear-gradient(hsl(205,100%,40%), hsl(205,100%,30%))!important;
      box-shadow: 0 0 10px #000;
 }
 .grid .cell .bar,
