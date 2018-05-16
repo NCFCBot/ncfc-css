@@ -59,7 +59,8 @@ body {
 #user-view #user-menu,
 .user-level-dropdown__bottom,
 .user-profile-dropdown,
-.user-level-dropdown {
+.user-level-dropdown,
+.nav-left {
      background: rgb(30, 35, 40);
 }
 .community .room-controls--desktop {
