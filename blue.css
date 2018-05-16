@@ -606,6 +606,11 @@ body {
      color: hsl(80,70%,50%);
      margin-left: 0;
 }
+
+#user-rollover .meta.offline .status i {
+	top:0px!important;
+}
+
 .offline .thumb {
      border-color: hsl(0,0%,40%) !important;
      box-shadow: none !important;
