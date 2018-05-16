@@ -1278,67 +1278,6 @@ margin-left: 0px!important;
     text-shadow: 0 0 5px #000;
 }
 
-/* HAPPY BIRTHDAY */
-
-#user-rollover.id-4701536 .status {
-    visibility: hidden;
-}
-
-#user-rollover.id-4701536 .meta .status span {
-     display: none;
-}
-
-#user-rollover.id-4881577 .status {
-    visibility: hidden;
-}
-
-#user-rollover.id-4881577 .meta .status span {
-     display: none;
-}
-
-#user-rollover.id-4701536 .status:after {
-    background-image: url(https://i.imgur.com/c1j7TYK.png);
-    background-repeat: no-repeat;
-    content: "BIRTHDAY GIRL";
-    display: inline-block;
-    color: #ffffff!important;
-    font-weight: 500;
-    margin: 0px 0px 0 -15px!important;
-    padding: 0 0 0 20px;
-    font-size: 15px;
-    animation: rainbow 10s infinite;
-    visibility: visible;
-}
-
-#user-rollover.id-4881577 .status:after {
-    background-image: url(https://i.imgur.com/c1j7TYK.png);
-    background-repeat: no-repeat;
-    content: "BIRTHDAY BOY";
-    display: inline-block;
-    color: #ffffff!important;
-    font-weight: 500;
-    margin: 0px 0px 0 -15px!important;
-    padding: 0 0 0 20px;
-    font-size: 15px;
-    animation: rainbow 10s infinite;
-    visibility: visible;
-}
-
-.community__share-room:after {
-    background-image: url(https://i.imgur.com/c1j7TYK.png);
-    background-repeat: no-repeat;
-    content: "HAPPY BIRTHDAY TO OUR GIRL CLANNAD AND OUR DEAR WENDY";
-    display: inline-block;
-    color: #ffffff!important;
-    font-weight: 500;
-    margin: 0px 0px 0 140px!important;
-    padding: 0 0 0 20px;
-    font-size: 12px;
-    animation: rainbow 7s infinite;
-    cursor: none;
-}
-
-
 @keyframes rainbow {
      0% {color: #ff0000;}
      10% {color: #ff8000;}
