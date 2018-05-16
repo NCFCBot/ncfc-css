@@ -50,6 +50,16 @@ body {
 .icon {
      background-image: url('https://i.imgur.com/N6wm8u9.png');
 }
+
+.nav-left__item {
+	color: #eee!important;
+}
+
+.nav-left__item:hover {
+    background-color: #24282f!important;
+    opacity: 1;
+}
+
 .community #chat,
 .community__left-nav,
 .community #user-lists,
