@@ -336,7 +336,7 @@ body {
 }
 .grid .cell {
      background: linear-gradient(hsl(205,100%,40%), hsl(205,100%,30%))!important;
-     box-shadow: 0 0 10px #000;
+     box-shadow: inset 0 0 10px 1px hsla(0,0%,100%,0.4);
 }
 .grid .cell .bar,
 .grid .cell .meta,
@@ -354,6 +354,11 @@ body {
      box-shadow: 0 0 3px #000;
      border-radius: 30px;
 }
+
+.user-content .grid .cell .top {
+	background: rgb(30, 35, 40)!important;
+}
+
 .grid .cell .bar .favorite.selected {
      background: linear-gradient(hsl(220,70%,50%), hsl(220,70%,40%)) !important;
 }
@@ -380,7 +385,8 @@ body {
 }
 .user-content .avatars .cell:hover .top,
 .user-content .avatars .cell.selected .top {
-     background: linear-gradient(rgba(0,0,0,0)70%, hsla(0,0%,100%,0.2) 80%), url(https://i.imgur.com/X3dKn08.png) !important;
+     background: rgb(30, 35, 40)!important;
+     border: 1px solid rgb(1, 91, 158);
 }
 .user-content .badges .cell {
      background: radial-gradient(hsl(210,10%,10%), hsl(210,10%,5%)) !important;
