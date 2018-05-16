@@ -52,12 +52,16 @@ body {
 }
 
 .nav-left__item {
-	color: #eee!important;
+	color: #ccc!important;
 }
 
 .nav-left__item:hover {
-    background-color: #24282f!important;
+    background:linear-gradient(hsla(220,10%,10%,0.5), hsla(220,10%,12%,0.5))!important;
     opacity: 1;
+}
+
+.nav-left .download-app {
+	background: linear-gradient(hsla(220,10%,10%,0.5), hsla(220,10%,12%,0.5))!important;
 }
 
 .community #chat,
