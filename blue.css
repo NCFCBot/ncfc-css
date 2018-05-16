@@ -58,10 +58,15 @@ body {
 .nav-left__item:hover {
     background:linear-gradient(hsla(220,10%,10%,0.5), hsla(220,10%,12%,0.5))!important;
     opacity: 1;
+    border-left: 2px solid #00c6ff;
 }
 
 .nav-left .download-app {
 	background: linear-gradient(hsla(220,10%,10%,0.5), hsla(220,10%,12%,0.5))!important;
+}
+
+.nav-left__item.selected {
+    background: linear-gradient(hsla(220,10%,10%,0.5), hsla(220,10%,12%,0.5))!important;
 }
 
 .community #chat,
