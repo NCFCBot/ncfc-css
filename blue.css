@@ -60,6 +60,9 @@ body {
     color: #eee!important;
     opacity: 1!important;
 }
+.community .friends .list .row {
+    border-bottom: 1px solid rgba(255,255,255,.1);
+}
 
 .nav-left__item:hover {
     background:linear-gradient(hsla(220,10%,10%,0.5), hsla(220,10%,12%,0.5))!important;
