@@ -509,11 +509,16 @@ body {
 	 top: -2px!important;
 	 left: 2px!important;
 }
+
+#user-lists .list {
+    top: 50px!important;
+}
+
 #user-lists .group {
      border: none !important;
      box-shadow: 0 0 1px 1px;
 }
-}
+
 #user-lists .user:hover {
      background: linear-gradient(to right, hsla(200,100%,20%,0.5), hsla(200,100%,40%,0.5)) !important;
 }
@@ -524,7 +529,7 @@ body {
      height: 42px;
 }
 #user-lists .list-header {
-     top: 44px;
+     display: none;
 }
 #user-lists .header .button {
      top: 0px;
