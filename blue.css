@@ -459,7 +459,7 @@ body {
 }
 /*#####[HOST]#####*/
 .icon-chat-host {
-     background: url(https://i.imgur.com/zIAEqAk.png);
+     background: url("https://i.imgur.com/zIAEqAk.png");
 }
 .icon-chat-host + span, #user-lists .group.host ~ .user span,
 #dialog-user-role .role-menu .menu ul .host span {
@@ -472,14 +472,14 @@ body {
 }
 /*#####[CO-HOSTS]#####*/
 .icon-chat-cohost {
-     background: url(https://i.imgur.com/zIAEqAk.png);
+     background: url("https://i.imgur.com/zIAEqAk.png");
 }
 .icon-chat-cohost + span, #dialog-user-role .dialog-body .role-menu .menu ul .cohost span {
      color: #db182e !important;
 }
 /*#####[MANAGER]#####*/
 .icon-chat-manager {
-     background: url(https://i.imgur.com/snaSrTN.png);
+     background: url("https://i.imgur.com/snaSrTN.png");
 }
 .icon-chat-manager + span, #user-lists .group.manager ~ .user span,
 #dialog-user-role .role-menu .menu ul .manager span {
@@ -491,7 +491,7 @@ body {
 }
 /*#####[BOUNCER]#####*/
 .icon-chat-bouncer {
-     background: url(https://i.imgur.com/X4rU7r5.png);
+     background: url("https://i.imgur.com/X4rU7r5.png");
 }
 .icon-chat-bouncer + span, #user-lists .group.bouncer ~ .user span,
 #dialog-user-role .role-menu .menu ul .bouncer span {
@@ -503,7 +503,7 @@ body {
 }
 /*#####[DJ]#####*/
 .icon-chat-dj {
-     background: url(https://i.imgur.com/HIUTGdj.png);
+     background: url("https://i.imgur.com/HIUTGdj.png");
      background-position: 0 0 !important;
 }
 #user-lists .group.dj {
@@ -516,7 +516,7 @@ body {
 /*#####[SUBS]#####*/
 .icon-chat-subscriber,
 #user-rollover .meta.subscriber .status i {
-     background: url(https://i.imgur.com/MqlDbT7.png);
+     background: url("https://i.imgur.com/MqlDbT7.png");
 }
 
 #user-rollover .meta .status i {
@@ -971,11 +971,11 @@ margin-left: 0px!important;
 }
 
 #user-rollover.id-6432868 > .info > .role .icon { 
-     background: url(https://i.imgur.com/zIAEqAk.png) !important; 
+     background: url("https://i.imgur.com/zIAEqAk.png") !important; 
 }
 
 #user-rollover.id-6432868 > .info > .role:hover .icon { 
-     background: url(https://i.imgur.com/IO84f0g.png) !important; 
+     background: url("https://i.imgur.com/IO84f0g.png") !important; 
 }
 
 /* sakeyrad */
@@ -1050,11 +1050,11 @@ margin-left: 0px!important;
 }
 
 #user-rollover.id-4329684 > .info > .role .icon { 
-    background: url(https://i.imgur.com/wlHkm2L.png) !important; 
+    background: url("https://i.imgur.com/wlHkm2L.png") !important; 
 }
 
 #user-rollover.id-4329684 > .info > .role:hover .icon { 
-    background: url(https://i.imgur.com/2yPN2cB.png) !important; 
+    background: url("https://i.imgur.com/2yPN2cB.png") !important; 
 }
 
 /* Minibot */
@@ -1135,11 +1135,11 @@ margin-left: 0px!important;
 }
 
 #user-rollover.id-21226293 > .info > .role .icon { 
-     background: url(https://i.imgur.com/HIUTGdj.png) !important; 
+     background: url("https://i.imgur.com/HIUTGdj.png") !important; 
 }
 
 #user-rollover.id-21226293 > .info > .role:hover .icon { 
-     background: url(https://i.imgur.com/LZgFvsZ.png) !important; 
+     background: url("https://i.imgur.com/LZgFvsZ.png") !important; 
 }
 
 /* PyroDennis */
@@ -1184,11 +1184,11 @@ margin-left: 0px!important;
 }
 
 #user-rollover.id-3586628 > .info > .role .icon { 
-     background: url(https://i.imgur.com/wlHkm2L.png) !important; 
+     background: url("https://i.imgur.com/wlHkm2L.png") !important; 
 }
 
 #user-rollover.id-3586628 > .info > .role:hover .icon { 
-     background: url(https://i.imgur.com/LZgFvsZ.png) !important; 
+     background: url("https://i.imgur.com/LZgFvsZ.png") !important; 
 }
 
 /* Meowzter */
@@ -1245,7 +1245,7 @@ margin-left: 0px!important;
 }
 
 #user-rollover.id-4881577 > .info > .role .icon { 
-    background: url(https://i.imgur.com/QE08WvR.png) !important; 
+    background: url("https://i.imgur.com/QE08WvR.png") !important; 
 }
 
 /* The_Local_CorgiDerp */
@@ -1284,7 +1284,7 @@ margin-left: 0px!important;
 
 /* WindWalk */
 #user-rollover.id-4881577 .level:after {
-    background-image: url("http://icons.iconarchive.com/icons/yusuke-kamiyamane/fugue/16/wrench-screwdriver-icon.png");
+    background-image: url("https://i.imgur.com/2B7OLIU.png");
     background-repeat: no-repeat;
     content: "BotX Dev";
     display: inline-block;
@@ -1297,7 +1297,7 @@ margin-left: 0px!important;
 
 /* Izzie */
 #user-rollover.id-6464162 .level:after {
-    background-image: url("http://icons.iconarchive.com/icons/yusuke-kamiyamane/fugue/16/wrench-screwdriver-icon.png");
+    background-image: url("https://i.imgur.com/2B7OLIU.png");
     background-repeat: no-repeat;
     content: "BotX Dev";
     display: inline-block;
