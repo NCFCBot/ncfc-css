@@ -368,6 +368,23 @@ body {
     border: none!important;
 }
 
+.communities .grid .cell .meta .join .label {
+    top:10px!important;
+}
+
+.communities .grid .cell .meta .join i {
+    display: none;
+}
+
+#user-view #user-menu {
+    border-left: #1c1f25 3px solid!important;
+    border-right: #1c1f25 3px solid!important;
+}
+
+#user-inventory .badges .grid .cell {
+    background: rgb(30, 35, 40)!important;
+}
+
 .communities .grid .cell:hover>.meta .room,
 .communities .grid .cell:hover>.meta .now-playing,
 .communities .grid .cell .meta .room,
