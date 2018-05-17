@@ -58,16 +58,16 @@ body {
 
 .nav-left__item.selected .nav-left__item-icon,
 .nav-left__item.selected .nav-left__item-text {
-    color:#0575c4!important;
+    color:#3d9cde!important;
 }
 
 .community .community__song-playing-progress .progress .progress-bar,
 [data-view=room] .bottom__playback-controls .volume-bar .progress .progress-bar {
-    background-color: #0575c4!important;
+    background-color: #3d9cde!important;
 }
 
 .nav-left__item.selected {
-    border-left: 2px solid #0575c4!important;
+    border-left: 2px solid #3d9cde!important;
 }
 
 .nav-left__item {
