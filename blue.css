@@ -57,7 +57,8 @@ body {
 }
 
 .nav-left__item {
-	color: #ccc!important;
+    color: #eee!important;
+    opacity: 1!important;
 }
 
 .nav-left__item:hover {
