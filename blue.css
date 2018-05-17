@@ -810,7 +810,7 @@ body {
 @media (min-width: 768px) {
 [data-view=room] .bottom__playback-meta {
 	width: 30%;
-	}
+}
 }
 
 .friends .jspContainer {
