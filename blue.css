@@ -13,7 +13,7 @@ body {
 #app .logo-wrapper .plugdj-logo {
     width: 30px;
     height: 30px;
-    background: url('https://i.imgur.com/rdBsAX6.png') no-repeat 0 0;
+    background: url("https://i.imgur.com/rdBsAX6.png") no-repeat 0 0;
 }
 .community .community__top, 
 #header-panel-bar.right-meta, 
@@ -53,7 +53,7 @@ body {
     color: #00c6ff!important;
 }
 .icon {
-    background-image: url('https://i.imgur.com/N6wm8u9.png');
+    background-image: url("https://i.imgur.com/N6wm8u9.png");
 }
 
 .nav-left__item.selected .nav-left__item-icon,
