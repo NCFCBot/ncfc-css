@@ -845,6 +845,10 @@ body {
 margin-left: 0px!important;
 }
 
+[data-theme] .left-side-wrapper .left-side-wrapper-inner {
+    background-image: url("https://i.imgur.com/WK1lRBo.png")!important;
+}
+
 /* Badges */
 
 /* Staff */
