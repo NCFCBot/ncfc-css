@@ -383,8 +383,8 @@ body {
 }
 
 .communities .grid .cell .meta .join .label {
-    top:10px!important;
     text-align: center;
+    color: #ccc!important;
 }
 
 .communities .grid .cell .meta .join i {
