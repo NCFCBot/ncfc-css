@@ -85,9 +85,11 @@ body {
 .community .room-controls--desktop {
      background: rgb(30,35,40,0.7)!important;
 }
-.community #chat #chat-header {
+.community #chat #chat-header,
+ #user-lists .header,
+ #waitlist .header {
      background: rgba(30,35,40,0.7);
-     border: none !important;
+     border-bottom: #1c1f25 2px solid;
 }
 #chat-messages::-webkit-scrollbar,
 .dropdown dd::-webkit-scrollbar,
