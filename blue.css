@@ -444,6 +444,11 @@ body {
      color: #fff;
 }
 
+.rcspdjheader {
+    background: linear-gradient(hsl(205,100%,40%), hsl(205,100%,30%))!important;
+    box-shadow: inset 0 0 10px 1px hsla(0,0%,100%,0.4);
+}
+
 /*#####[YOU]#####*/
 #chat .cm .msg .from.you .un {
      color: #0bf !important;
