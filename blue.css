@@ -89,7 +89,7 @@ body {
  #user-lists .header,
  #waitlist .header {
      background: rgba(30,35,40,0.7);
-     border-bottom: #1c1f25 2px solid!important;
+     border-bottom: #1c1f25 3px solid!important;
 }
 #chat-messages::-webkit-scrollbar,
 .dropdown dd::-webkit-scrollbar,
