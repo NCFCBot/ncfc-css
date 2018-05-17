@@ -89,7 +89,7 @@ body {
  #user-lists .header,
  #waitlist .header {
      background: rgba(30,35,40,0.7);
-     border-bottom: #1c1f25 2px solid;
+     border-bottom: #1c1f25 2px solid!important;
 }
 #chat-messages::-webkit-scrollbar,
 .dropdown dd::-webkit-scrollbar,
@@ -434,10 +434,7 @@ body {
 #playlist-menu .menu .row .count {
      color: #fff;
 }
-#user-lists .header,
-#waitlist .header {
-     background: rgba(30,35,40,0.7);
-}
+
 /*#####[YOU]#####*/
 #chat .cm .msg .from.you .un {
      color: #0bf !important;
