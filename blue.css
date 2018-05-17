@@ -371,11 +371,28 @@ body {
 
 .communities .grid .cell:hover>.meta .room,
 .communities .grid .cell:hover>.meta .now-playing,
-.communities .grid .cell .meta .room {
+.communities .grid .cell .meta .room,
+.communities .grid .cell.no-media .now-playing {
     text-align: center;
 }
 .communities .grid .cell .bar {
     border-bottom: #1c1f25 3px solid!important;
+}
+
+.communities .grid .cell:hover>.meta .now-playing {
+    margin-top: 20px!important;
+}
+.user-content.communities .grid .cell,
+.user-content .grid .cell {
+    box-shadow: 0 0 10px #000!important;
+}
+
+.communities .grid .cell .meta {
+    border-top: #1c1f25 3px solid!important;
+}
+
+#user-view #user-menu .item .label {
+    color: #eee!important;
 }
 
 .communities .grid .cell .meta .now-playing i {
