@@ -347,7 +347,7 @@ body {
 }
 
 .grid .cell {
-	box-shadow: 0 0 10px #000;
+    box-shadow: 0 0 10px #000;
 }
 
 .grid .cell, .user-content .badges .cell, #user-store .misc .grid .cell .title-bar {
@@ -400,7 +400,7 @@ body {
 }
 
 .user-content .grid .cell .top {
-	background: rgb(30, 35, 40)!important;
+    background: rgb(30, 35, 40)!important;
 }
 
 .user-content.communities button {
