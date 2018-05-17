@@ -1377,7 +1377,50 @@ margin-left: 0px!important;
 
 /* Custom Ranks */
 
+#user-lists .list .user.id-3586628 .name:after, #user-rollover.id-3586628 .meta .username:after, #chat [data-cid^='3586628-'] .un:after {
+    content: "Web/Room Dev";
+    margin-left: 5px;
+    background: rgba(0,0,0,.3);
+    padding: 0px 5px;
+    border: 1px solid #5DB4FF;
+    border-radius: 5px;
+    color: #ccc;
+    font-size: 10px;
+}
 
+#user-lists .list .user.id-6464162 .name:after, #user-rollover.id-6464162 .meta .username:after, #chat [data-cid^='6464162-'] .un:after {
+    content: "BotX Dev";
+    margin-left: 5px;
+    background: rgba(0,0,0,.3);
+    padding: 0px 5px;
+    border: 1px solid #AB48C6;
+    border-radius: 5px;
+    color: #ccc;
+    font-size: 10px;
+}
+
+
+#user-lists .list .user.id-4881577 .name:after, #user-rollover.id-4881577 .meta .username:after, #chat [data-cid^='4881577-'] .un:after {
+    content: "BotX Dev";
+    margin-left: 5px;
+    background: rgba(0,0,0,.3);
+    padding: 0px 5px;
+    border: 1px solid #AB48C6;
+    border-radius: 5px;
+    color: #ccc;
+    font-size: 10px;
+}
+
+#user-lists .list .user.id-13495048 .name:after, #user-rollover.id-13495048 .meta .username:after, #chat [data-cid^='13495048-'] .un:after {
+    content: "Room Bot";
+    margin-left: 5px;
+    background: rgba(0,0,0,.3);
+    padding: 0px 5px;
+    border: 1px solid #AB48C6;
+    border-radius: 5px;
+    color: #ccc;
+    font-size: 10px;
+}
 
 @keyframes rainbow {
      0% {color: #ff0000;}
