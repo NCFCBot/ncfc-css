@@ -1,10 +1,15 @@
 body {
-     color: #fff;
+     color: #eee;
      opacity: 1;
 }
 .left-side-wrapper {
      background-position-x: 50px !important;
 }
+
+.community .community__name {
+    color: #eee!important;
+}
+
 #app .logo-wrapper .plugdj-logo {
      width: 30px;
      height: 30px;
