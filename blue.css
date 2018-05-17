@@ -857,11 +857,15 @@ margin-left: 0px!important;
 }
 
 #user-rollover.id-4701536 > .info > .role .icon { 
-     background: url(https://i.imgur.com/zIAEqAk.png) !important; 
+     background: url("https://i.imgur.com/zIAEqAk.png") !important; 
 }
 
 #user-rollover.id-4701536 > .info > .role:hover .icon { 
-     background: url(https://i.imgur.com/IO84f0g.png) !important; 
+     background: url("https://i.imgur.com/IO84f0g.png") !important; 
+}
+
+.user.id-3586628 .icon-chat-host {
+    background: url("https://i.imgur.com/zIAEqAk.png")!important;
 }
 
 
