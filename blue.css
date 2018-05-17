@@ -1343,6 +1343,10 @@ margin-left: 0px!important;
     background: url("https://i.imgur.com/QE08WvR.png") !important; 
 }
 
+#user-rollover.id-4881577 .username {
+    color: #AB48C6!important;
+}
+
 /* The_Local_CorgiDerp */
 #user-rollover.id-6007641 .badge-box > i.bdg,
 .id-6007641 > .badge-box > i.bdg
