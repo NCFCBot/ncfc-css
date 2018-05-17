@@ -352,7 +352,6 @@ body {
 
 .grid .cell, .user-content .badges .cell, #user-store .misc .grid .cell .title-bar {
     background: linear-gradient(hsl(205,100%,40%), hsl(205,100%,30%))!important;
-    box-shadow: inset 0 0 10px 1px hsla(0,0%,100%,0.4);
 }
 .grid .cell .bar,
 .grid .cell .meta,
@@ -366,7 +365,7 @@ body {
 }
 .grid .cell .meta .join {
     background: linear-gradient(hsl(205,100%,40%), hsl(205,100%,30%))!important;
-    box-shadow: inset 0 0 10px 1px hsla(0,0%,100%,0.4);
+    border: none!important;
 }
 
 .communities .grid .cell:hover>.meta .room,
