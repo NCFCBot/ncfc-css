@@ -129,9 +129,7 @@ body {
 #grab-rs-list::-webkit-scrollbar-thumb,
 #meh-rs-list::-webkit-scrollbar-thumb,
 .dialog::-webkit-thumb, .jspDrag {
-    background: linear-gradient(to right, hsl(210,10%,50%), hsl(210,10%,20%));
-    box-shadow: inset 1px 0 7px hsla(0,0%,100%,0.5);
-    border-radius: 5px;
+    background: linear-gradient(hsl(205,100%,40%), hsl(205,100%,30%))!important;
 }
 .jspTrack {
     box-shadow: inset -1px 0 10px hsla(0,0%,20%,1);
