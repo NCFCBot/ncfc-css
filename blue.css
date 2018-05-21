@@ -481,7 +481,8 @@ body {
 #playlist-shuffle-button, 
 #playlist-delete-button,
 #playlist-import,
-#playlist-create {
+#playlist-create,
+.dialog-frame .button.submit, .rs .button.submit {
     background: linear-gradient(hsl(205,100%,40%), hsl(205,100%,30%))!important;
     border-left: 1px solid #22262a;
 }
