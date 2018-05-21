@@ -491,6 +491,10 @@ body {
     background: rgba(0, 137, 255, 0.38823529411764707)!important;
 }
 
+#search {
+    background: rgb(30, 35, 40)!important;
+}
+
 .user-content .badges .cell:hover,
 #user-store .badges .cell:hover,
 .user-content .badges .cell.selected {
