@@ -486,11 +486,24 @@ body {
 #playlist-delete-button,
 #playlist-import,
 #playlist-create,
-.dialog-frame .button.submit, .rs .button.submit, 
+.dialog-frame .button.submit,
+.rs .button.submit, 
 .media-list .row.now-playing,
 #playlist-activate-button {
     background: linear-gradient(hsl(205,100%,40%), hsl(205,100%,30%))!important;
     border-left: 1px solid #22262a;
+}
+
+#playlist-edit-button:hover, 
+#playlist-shuffle-button:hover, 
+#playlist-delete-button:hover,
+#playlist-import:hover,
+#playlist-create:hover,
+.dialog-frame .button.submit:hover,
+.rs .button.submit:hover, 
+.media-list .row.now-playing:hover,
+#playlist-activate-button:hover {
+    box-shadow: inset 0 0 10px 1px hsla(0,0%,100%,0.4)!important;
 }
 
 #import-youtube .button span {
