@@ -493,6 +493,10 @@ body {
     border-left: 1px solid #22262a;
 }
 
+#playlist-import-panel .button {
+    background: linear-gradient(hsl(205,100%,40%), hsl(205,100%,30%))!important;
+}
+
 .media-list .row.selected {
     background: rgba(0, 137, 255, 0.38823529411764707)!important;
 }
