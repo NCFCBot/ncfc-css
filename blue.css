@@ -499,6 +499,7 @@ body {
 .media-list .actions,
 #media-panel .header .back {
     background: linear-gradient(hsl(205,100%,40%), hsl(205,100%,30%))!important;
+    border-left: 1px solid #22262a;
 }
 
 .media-list .selected .actions {
