@@ -509,7 +509,8 @@ body {
 .action.move-to-top:hover,
 .action.delete:hover,
 #playlist-import-panel .button:hover,
-#media-panel .header .import-button:hover {
+#media-panel .header .import-button:hover,
+.btn-no-dj-secondary:hover {
     box-shadow: inset 0 0 10px 1px hsla(0,0%,100%,0.4)!important;
 }
 
