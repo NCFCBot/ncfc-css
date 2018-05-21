@@ -499,11 +499,18 @@ body {
 .media-list .actions,
 #media-panel .header .back {
     background: linear-gradient(hsl(205,100%,40%), hsl(205,100%,30%))!important;
-    border-left: 1px solid #22262a;
 }
 
 .media-list .selected .actions {
     background: #111317;
+}
+
+.action .edit,
+.action .related,
+.action .move-to-bottom,
+.action .move-to-top,
+.action .delete {
+    border-left: 1px solid #22262a;
 }
 
 #search {
