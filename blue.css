@@ -502,7 +502,14 @@ body {
 .dialog-frame .button.submit:hover,
 .rs .button.submit:hover, 
 .media-list .row.now-playing:hover,
-#playlist-activate-button:hover {
+#playlist-activate-button:hover,
+.action.edit:hover,
+.action.related:hover,
+.action.move-to-bottom:hover,
+.action.move-to-top:hover,
+.action.delete:hover,
+#playlist-import-panel .button:hover,
+#media-panel .header .import-button:hover {
     box-shadow: inset 0 0 10px 1px hsla(0,0%,100%,0.4)!important;
 }
 
