@@ -571,6 +571,10 @@ body {
     margin-top: 6px!important;
 }
 
+.btn-no-dj-secondary__icon {
+    overflow: visible!important;
+}
+
 /*#####[YOU]#####*/
 #chat .cm .msg .from.you .un {
     color: #0bf !important;
