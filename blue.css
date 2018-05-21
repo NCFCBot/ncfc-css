@@ -493,7 +493,13 @@ body {
     border-left: 1px solid #22262a;
 }
 
-#playlist-import-panel .button {
+#import-youtube .button span {
+    top: 8px!important;
+    font-size: 13px!important;
+}
+
+#playlist-import-panel .button,
+#media-panel .header .import-button {
     background: linear-gradient(hsl(205,100%,40%), hsl(205,100%,30%))!important;
 }
 
