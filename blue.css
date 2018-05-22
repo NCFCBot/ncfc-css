@@ -946,12 +946,17 @@ margin-left: 0px!important;
     color: #eee!important;
 }
 
-.share-song-item.share-facebook:hover {
+.share-song-item.share-facebook {
     color: #3b5998!important;
 }
     
 .share-song-item.share-twitter {
     color: #1da1f2!important;
+}
+
+.share-song-item.share-facebook:hover,
+.share-song-item.share-twitter:hover {
+    color: #eee!important;
 }
 
 /* Badges */
