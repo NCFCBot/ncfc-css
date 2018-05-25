@@ -982,9 +982,9 @@ margin-left: 0px!important;
 #user-rollover.id-13495048 .username,
 #chat [data-cid^="13495048-"] span.un.clickable
 {
-    animation: rainbow 10s infinite;
-    -webkit-animation: rainbow 10s infinite;
-    -moz-animation: rainbow 10s infinite;
+    animation: rainbow 10s infinite!important;
+    -webkit-animation: rainbow 10s infinite!important;
+    -moz-animation: rainbow 10s infinite!important;
 }
 
 /* Kirito-Kun Nightcore */
