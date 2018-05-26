@@ -963,6 +963,11 @@ margin-left: 0px!important;
     width: 100%!important;
 }
 
+#user-friends .tab-menu button .count {
+    top: 16px!important;
+    margin-left: 5px!important;
+}
+
 .tab-menu button {
     width: 50%!important;
 }
