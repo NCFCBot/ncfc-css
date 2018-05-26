@@ -959,6 +959,32 @@ margin-left: 0px!important;
     color: #eee!important;
 }
 
+#user-friends .tab-menu button {
+    width: 100%!important;
+}
+    
+#user-friends .tab-menu button .count {
+    top: 0!important;
+}
+    
+.tab-menu button {
+    width: 50%!important;
+}
+    
+#user-view .user-content .tab-menu button.avatars,
+#user-view .user-content .tab-menu button.badges,
+#user-view .user-content .tab-menu button.misc,
+#user-view .user-content .tab-menu button:last-child.avatars,
+#user-view .user-content .tab-menu button:last-child.badges,
+#user-view .user-content .tab-menu button:last-child.misc {
+    width: 96%!important;
+}
+    
+#user-view #user-inventory.user-content .tab-menu button.history,
+#user-view #user-inventory.user-content .tab-menu button:last-child {
+    width: 96%!important;
+}
+
 /* Badges */
 
 /* Staff */
