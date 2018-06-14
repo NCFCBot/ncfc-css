@@ -1158,6 +1158,10 @@ body {
     color: #eee!important;
 }
 
+.description.panel .value a[href*=".json"] {
+	display: none;
+}
+
 
 /* Badges */
 
