@@ -47,10 +47,19 @@ body {
     box-shadow: inset 0 0 10px 1px hsla(0, 0%, 100%, 0.4);
 }
 
+#playlist-panel.playlist--override #media-panel .header .playlist-buttons-container .button#playlist-activate-button {
+    border-radius: 0px!important;
+}
+
 #playlist-panel.playlist--override #media-panel .header .playlist-buttons-container .button#playlist-activate-button.active {
     border-color: #0f7ccb!important;
     color: #0f7ccb!important;
     opacity: 1;
+    border-radius: 0px!important;
+}
+
+#playlist-panel.playlist--override #media-panel .header .playlist-buttons-container .button#playlist-activate-button.active>i {
+    color: #0f7ccb!important;
 }
 
 .header-panel-button {
@@ -605,7 +614,8 @@ body {
 }
 
 .playlist-buttons-content #playlist-create.button, .playlist-buttons-content #playlist-import.button {
-    border:1px solid #0f7ccb ;
+    border:1px solid #0f7ccb;
+    border-radius: 0px!important;
 }
 
 #import-youtube .button span {
@@ -634,12 +644,8 @@ body {
     background: none!important;
 }
 
-.action.edit,
-.action.related,
-.action.move-to-bottom,
-.action.move-to-top,
-.action.delete {
-    border-left: 1px solid #22262a!important;
+#playlist-panel.playlist--override #playlist-menu .menu .row .activate-button i.active {
+    color: #fff!important;
 }
 
 #search {
