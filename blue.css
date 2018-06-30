@@ -47,6 +47,12 @@ body {
     box-shadow: inset 0 0 10px 1px hsla(0, 0%, 100%, 0.4);
 }
 
+#playlist-panel.playlist--override #media-panel .header .playlist-buttons-container .button#playlist-activate-button.active {
+    border-color: #0f7ccb!important;
+    color: #0f7ccb!important;
+    opacity: 1;
+}
+
 .header-panel-button {
     border-right: 0px;
     border-left: 1px solid #0a0a0a;
@@ -575,11 +581,6 @@ body {
     box-shadow: inset 0 0 10px 1px hsla(0, 0%, 100%, 0.4)!important;
 }
 
-#playlist-edit-button,
-#playlist-shuffle-button,
-#playlist-delete-button,
-#playlist-import,
-#playlist-create,
 .dialog-frame .button.submit,
 .rs .button.submit,
 .media-list .row.now-playing,
@@ -588,11 +589,6 @@ body {
     border-left: 1px solid #22262a;
 }
 
-#playlist-edit-button:hover,
-#playlist-shuffle-button:hover,
-#playlist-delete-button:hover,
-#playlist-import:hover,
-#playlist-create:hover,
 .dialog-frame .button.submit:hover,
 .rs .button.submit:hover,
 .media-list .row.now-playing:hover,
@@ -606,6 +602,10 @@ body {
 #media-panel .header .import-button:hover,
 .btn-no-dj-secondary:hover {
     box-shadow: inset 0 0 10px 1px hsla(0, 0%, 100%, 0.4)!important;
+}
+
+.playlist-buttons-content #playlist-create.button, .playlist-buttons-content #playlist-import.button {
+    border:1px solid #0f7ccb ;
 }
 
 #import-youtube .button span {
@@ -622,13 +622,16 @@ body {
     background: rgba(0, 137, 255, 0.38823529411764707)!important;
 }
 
-.media-list .actions,
 #media-panel .header .back {
     background: linear-gradient(hsl(205, 100%, 40%), hsl(205, 100%, 30%))!important;
 }
 
+.media-list .actions {
+    background: none!important;
+}
+
 .media-list .selected .actions {
-    background: #111317;
+    background: none!important;
 }
 
 .action.edit,
