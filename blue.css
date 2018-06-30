@@ -64,7 +64,7 @@ body {
 }
 
 #playlist-panel.playlist--override #media-panel .header .playlist-buttons-container .button#playlist-activate-button.active>i {
-    color: #fff!important;
+    color: #0f7ccb!important;
 }
 
 #playlist-panel.playlist--override #media-panel #playlist-import-panel .import-box .button {
