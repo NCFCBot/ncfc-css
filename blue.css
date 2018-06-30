@@ -49,13 +49,18 @@ body {
 
 #playlist-panel.playlist--override #media-panel .header .playlist-buttons-container .button#playlist-activate-button {
     border-radius: 0px!important;
+    border-radius: 0px!important;
+    background: none!important;
+    border-color: #0f7ccb!important;
+    color: #0f7ccb!important;
 }
 
 #playlist-panel.playlist--override #media-panel .header .playlist-buttons-container .button#playlist-activate-button.active {
-    border-color: #fff!important;
+    border-color: #0f7ccb!important;
     color: #0f7ccb!important;
     opacity: 1;
     border-radius: 0px!important;
+    background: none!important;
 }
 
 #playlist-panel.playlist--override #media-panel .header .playlist-buttons-container .button#playlist-activate-button.active>i {
