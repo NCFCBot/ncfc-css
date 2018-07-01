@@ -88,6 +88,11 @@ body {
     box-shadow: inset 0 0 10px 1px hsla(0, 0%, 100%, 0.4);
 }
 
+#user-view #user-settings.user-content .account .container .subscribe-button i,
+#user-view #user-settings.user-content .account .container .subscribe-button {
+    color: #fff!important;
+}
+
 #user-settings .container .item span,
 #user-settings .container .cap .title,
 #user-settings .container .refresh
