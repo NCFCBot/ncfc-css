@@ -70,7 +70,8 @@ body {
 .user-content .header span,
 .user-content.profile .points .label,
 .user-content.profile .meta .joined,
-.user-content.profile .meta .link .label {
+.user-content.profile .meta .link .label,
+#user-settings .container label {
     font-weight: 600!important;
     color: #0f7ccb!important;
 }
@@ -89,7 +90,6 @@ body {
 
 #user-settings .container .item span,
 #user-settings .container .cap .title,
-#user-settings .container label,
 #user-settings .container .refresh
  {
     color: #fff!important;
