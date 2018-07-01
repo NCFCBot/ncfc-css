@@ -63,6 +63,31 @@ body {
     background: none!important;
 }
 
+.user-content .header span,
+.user-content.profile .points .label,
+.user-content.profile .meta .joined,
+.user-content.profile .meta .link .label {
+    font-weight: 600!important;
+    color: #0f7ccb!important;
+}
+
+#user-view .user-content.profile .points .pp .pp-points .value {
+    margin-left: 5px!important;
+    top: 20px!important;
+}
+
+.user-content.profile .points i {
+    top: 20px!important;
+}
+
+.user-content.profile .meta .joined {
+    margin-left: 0px!important;
+}
+
+#user-view .user-content.profile .points .pp .pp-points {
+    background-color: none!important;
+}
+
 #playlist-panel.playlist--override #media-panel .header .playlist-buttons-container .button#playlist-activate-button.active>i {
     color: #0f7ccb!important;
 }
@@ -1187,11 +1212,20 @@ body {
     color: #eee!important;
 }
 
-.share-song-item.share-facebook {
+#user-menu .item i {
+    color: #eee!important;
+    opacity: 1!important;
+}
+
+#user-view .user-content .tab-menu button.selected, #user-view .user-content .tab-menu button {
+    border: none!important;
+}
+
+.share-song-item.share-facebook, .share-room-item.share-facebook {
     color: #3b5998!important;
 }
 
-.share-song-item.share-twitter {
+.share-song-item.share-twitter, .share-room-item.share-twitter {
     color: #1da1f2!important;
 }
 
