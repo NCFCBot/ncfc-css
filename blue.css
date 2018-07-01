@@ -79,8 +79,19 @@ body {
     margin-left: 5px!important;
     top: 15px!important;
 }
+#user-view #user-settings.user-content .account .container button,
+#user-settings .container button:hover,
+#user-view #user-settings.user-content .account .container .subscribe-button,
+.subscribe-button:hover {
+    background: linear-gradient(hsl(205, 100%, 40%), hsl(205, 100%, 30%))!important;
+    box-shadow: inset 0 0 10px 1px hsla(0, 0%, 100%, 0.4);
+}
 
-#user-settings .container .item span {
+#user-settings .container .item span,
+#user-settings .container .cap .title,
+#user-settings .container label,
+#user-settings .container .refresh
+ {
     color: #fff!important;
 }
 
@@ -470,14 +481,6 @@ body {
 #the-user-profile .notifications.section .row {
     border-radius: 10px;
     background: linear-gradient(hsl(210, 100%, 20%), hsl(210, 100%, 10%));
-}
-
-#user-settings .container button:hover {
-    background: linear-gradient(hsl(10, 80%, 30%), hsl(0, 80%, 20%));
-}
-
-.subscribe-button:hover {
-    background: linear-gradient(hsl(40, 70%, 30%), hsl(40, 70%, 20%));
 }
 
 .tab-menu .selected {
