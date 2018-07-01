@@ -63,6 +63,10 @@ body {
     background: none!important;
 }
 
+#playlist-panel.playlist--override #media-panel .media-list .jspContainer .jspPane .container-fluid .row.now-playing {
+    border-bottom: none!important;
+}
+
 .user-content .header span,
 .user-content.profile .points .label,
 .user-content.profile .meta .joined,
@@ -73,11 +77,15 @@ body {
 
 #user-view .user-content.profile .points .pp .pp-points .value {
     margin-left: 5px!important;
-    top: 20px!important;
+    top: 15px!important;
+}
+
+#user-settings .container .item span {
+    color: #fff!important;
 }
 
 .user-content.profile .points i {
-    top: 20px!important;
+    top: 15px!important;
 }
 
 .user-content.profile .meta .joined {
@@ -85,7 +93,7 @@ body {
 }
 
 #user-view .user-content.profile .points .pp .pp-points {
-    background-color: none!important;
+    background: none!important;
 }
 
 #playlist-panel.playlist--override #media-panel .header .playlist-buttons-container .button#playlist-activate-button.active>i {
