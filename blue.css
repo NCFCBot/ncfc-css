@@ -416,6 +416,12 @@ body {
     background: linear-gradient(hsla(210, 10%, 7%, 0.9), hsla(210, 10%, 5%, 0.9)) !important;
 }
 
+#dashboard .tab-menu button, #dashboard .tab-menu button:last-child {
+    width: 100%!important;
+    border-bottom: none!important;
+    padding: 0!important;
+}
+
 #user-menu .item:hover,
 #room-settings-menu .item:hover {
     background: linear-gradient(hsla(205, 100%, 40%, 0.6), hsla(205, 100%, 30%, 0.6));
