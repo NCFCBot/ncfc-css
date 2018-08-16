@@ -1766,6 +1766,7 @@ body {
 
 /* WindWalk */
 
+/*
 #user-rollover.id-4881577>.info>.role span {
     text-indent: -9999px;
     line-height: 0;
@@ -1790,7 +1791,7 @@ body {
 #user-lists .list.room .user.id-4881577 .icon-chat-sitemod {
     background: url("https://i.imgur.com/QE08WvR.png")!important;
 }
-
+*/
 
 /* The_Local_CorgiDerp */
 
@@ -1830,6 +1831,7 @@ body {
 
 /* Custom Ranks */
 
+/* Dusan */
 #user-lists .list .user.id-3586628 .name:after,
 #user-rollover.id-3586628 .meta .username:after,
 #chat [data-cid^='3586628-'] .un:after {
@@ -1843,6 +1845,7 @@ body {
     font-size: 11px;
 }
 
+/* Izzie */
 #user-lists .list .user.id-6464162 .name:after,
 #user-rollover.id-6464162 .meta .username:after,
 #chat [data-cid^='6464162-'] .un:after {
@@ -1856,6 +1859,7 @@ body {
     font-size: 11px;
 }
 
+/* Windwalk */
 #user-lists .list .user.id-4881577 .name:after,
 #user-rollover.id-4881577 .meta .username:after,
 #chat [data-cid^='4881577-'] .un:after {
@@ -1863,12 +1867,13 @@ body {
     margin-left: 5px;
     background: rgba(0, 0, 0, .3);
     padding: 0px 5px;
-    border: 1px solid #AB48C6;
+    border: 1px solid #c59840;
     border-radius: 5px;
     color: #ccc;
     font-size: 11px;
 }
 
+/* BotX */
 #user-lists .list .user.id-13495048 .name:after,
 #user-rollover.id-13495048 .meta .username:after,
 #chat [data-cid^='13495048-'] .un:after {
@@ -1881,6 +1886,60 @@ body {
     color: #ccc;
     font-size: 11px;
 }
+
+/* About */
+
+#preview-about {
+    background: #1e2328;
+}
+
+#preview-about .top-about {
+    height: 350px;
+    width: 100%;
+    background: url("https://i.imgur.com/yBnN5NQ.png") no-repeat 0 0!important;
+    background-size: cover;
+    background-position: center top;
+    position: static;
+    z-index: -1;
+}
+
+#preview-about .top-profile .top-profile__image {
+    border: 3px solid #fff!important;
+}
+
+#preview-about .flex-component .item,
+#preview-about .flex-component.text .item-text,
+#preview-about .about-content .long-description p {
+    opacity: 1!important;
+}
+
+#preview-about .top-profile .follow.white {
+    background: linear-gradient(hsl(205, 100%, 40%), hsl(205, 100%, 30%))!important;
+    color: #fff!important;
+}
+
+#preview-about .top-profile .follow:hover {
+    color: #fff!important;
+}
+
+#preview-about .top-profile .share {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: center;
+    background: linear-gradient(hsl(205, 100%, 40%), hsl(205, 100%, 30%))!important;
+    color: #fff!important;
+    white-space: nowrap;
+    border: 0;
+    border-radius: 25px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: all .4s;
+    display: inline-table;
+    font-weight: 400px!important;
+    margin-right: 10px;
+}
+
 
 @keyframes rainbow {
     0% {
