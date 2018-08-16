@@ -1941,6 +1941,10 @@ body {
     padding: 10px 20px;
 }
 
+#preview-about .top-about .top-background-black {
+    z-index: -5;
+}
+
 
 @keyframes rainbow {
     0% {
