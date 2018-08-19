@@ -1916,6 +1916,7 @@ body {
 #preview-about .top-profile .follow.white {
     background: linear-gradient(hsl(205, 100%, 40%), hsl(205, 100%, 30%))!important;
     color: #fff!important;
+    padding-left: 20px!important;
 }
 
 #preview-about .top-profile .follow:hover {
