@@ -1696,10 +1696,10 @@ body {
 
 #user-rollover.id-3586628>.info>.role span:after {
     text-indent: 0;
-    content: 'Bouncer';
+    content: 'Manager';
     display: block;
     line-height: initial;
-    color: #5DB4FF;
+    color: #AB48C6;
 }
 
 #user-rollover.id-3586628>.info>.role:hover span:after {
@@ -1711,7 +1711,7 @@ body {
 }
 
 #user-rollover.id-3586628>.info>.role .icon {
-    background: url("https://i.imgur.com/wlHkm2L.png") !important;
+    background: url("https://i.imgur.com/snaSrTN.png") !important;
 }
 
 #user-rollover.id-3586628>.info>.role:hover .icon {
