@@ -1946,6 +1946,10 @@ body {
     z-index: -5;
 }
 
+.community-settings .community-settings__top .edit-community {
+    background: linear-gradient(hsl(205, 100%, 40%), hsl(205, 100%, 30%))!important;
+    color: #fff!important;
+}
 
 @keyframes rainbow {
     0% {
