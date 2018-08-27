@@ -2011,6 +2011,10 @@ body {
     color: #fff!important;
 }
 
+.plug-tab-menu .item, .plug-tab-menu .item:last-child {
+    width: 100%!important;
+}
+
 @keyframes rainbow {
     0% {
         color: #ff0000;
