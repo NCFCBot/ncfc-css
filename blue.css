@@ -2016,24 +2016,17 @@ body {
 }
 
 /* HAPPY BIRTHDAY */
-#user-rollover.id-4718010 .status {
-    visibility: hidden;
-}
- #user-rollover.id-4718010 .meta .status span {
-     display: none;
-}
- #user-rollover.id-4718010 .status:after {
-    background-image: url(https://i.imgur.com/c1j7TYK.png);
-    background-repeat: no-repeat;
-    content: "BIRTHDAY BOY";
-    display: inline-block;
-    color: #ffffff!important;
-    font-weight: 500;
-    margin: 0px 0px 0 -15px!important;
-    padding: 0 0 0 20px;
-    font-size: 15px;
-    animation: rainbow 10s infinite;
-    visibility: visible;
+#user-lists .list .user.id-4718010 .name:after,
+#user-rollover.id-4718010 .meta .username:after,
+#chat [data-cid^='4718010-'] .un:after {
+    content: "Birthday Boy";
+    margin-left: 5px;
+    background: rgba(0, 0, 0, .3);
+    padding: 0px 5px;
+    border: 1px solid #db182e;
+    border-radius: 5px;
+    color: #ccc;
+    font-size: 11px;
 }
  .community__share-room:after {
     background-image: url(https://i.imgur.com/c1j7TYK.png);
