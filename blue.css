@@ -2015,6 +2015,40 @@ body {
     width: 100%!important;
 }
 
+/* HAPPY BIRTHDAY */
+#user-rollover.id-4718010 .status {
+    visibility: hidden;
+}
+ #user-rollover.id-4718010 .meta .status span {
+     display: none;
+}
+ #user-rollover.id-4718010 .status:after {
+    background-image: url(https://i.imgur.com/c1j7TYK.png);
+    background-repeat: no-repeat;
+    content: "BIRTHDAY BOY";
+    display: inline-block;
+    color: #ffffff!important;
+    font-weight: 500;
+    margin: 0px 0px 0 -15px!important;
+    padding: 0 0 0 20px;
+    font-size: 15px;
+    animation: rainbow 10s infinite;
+    visibility: visible;
+}
+ .community__share-room:after {
+    background-image: url(https://i.imgur.com/c1j7TYK.png);
+    background-repeat: no-repeat;
+    content: "HAPPY BIRTHDAY TO OUR SENPAI IWASAWA ♥";
+    display: inline-block;
+    color: #ffffff!important;
+    font-weight: 500;
+    margin: 0px 0px 0 185px!important;
+    padding: 0 0 0 20px;
+    font-size: 12px;
+    animation: rainbow 7s infinite;
+    cursor: none;
+}
+
 @keyframes rainbow {
     0% {
         color: #ff0000;
