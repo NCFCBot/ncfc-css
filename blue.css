@@ -2015,7 +2015,7 @@ body {
     width: 100%!important;
 }
 
-/* HAPPY BIRTHDAY */
+/* HAPPY BIRTHDAY
 #user-lists .list .user.id-4718010 .name:after,
 #user-rollover.id-4718010 .meta .username:after,
 #chat [data-cid^='4718010-'] .un:after {
@@ -2041,6 +2041,8 @@ body {
     animation: rainbow 7s infinite;
     cursor: none;
 }
+
+ */
 
 @keyframes rainbow {
     0% {
