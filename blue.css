@@ -1981,6 +1981,14 @@ body {
     width: 100%!important;
 }
 
+.community .community__top {
+    border-bottom: 1px solid #3d9cde;
+}
+
+.community__bottom {
+    border-top: 1px solid #3d9cde;
+}
+
 /* HAPPY BIRTHDAY
 #user-lists .list .user.id-4718010 .name:after,
 #user-rollover.id-4718010 .meta .username:after,
@@ -2008,29 +2016,9 @@ body {
     cursor: none;
 }
 
- */
+ /* Announcements */
 
- /* New update */
-
- #app .logo-wrapper .plugdj-logo {
-    width: 32px;
-    height: 32px;
-    background: url("https://i.imgur.com/h0biwHW.png") no-repeat 0 0;
-}
-
-.icon-playlist:before {
-    content: url("https://i.imgur.com/f3eRKYi.png") !important;
-}
-
-.community .community__top {
-    border-bottom: 1px solid #3d9cde;
-}
-
-.community__bottom {
-    border-top: 1px solid #3d9cde;
-}
-
-#rcs-style-anchor-2 {
+ #rcs-style-anchor-2 {
     background-color: rgba(0, 0, 0, 0.7) !important;
     border-radius: 5px !important;
     border: 1px solid #3d9cde !important;
@@ -2055,7 +2043,7 @@ body {
 #rcs-style-anchor-2.toggled{ height: 35px !important; width: 150px !important;}
 #rcs-style-anchor-2.toggled:after { content: '';}
 #rcs-style-anchor-2:after {
-    content: 'Nightcore Fanclub Staff wants to wish you a Merry Christmas and Happy New Year!';
+    content: "We are looking for new RDJ's, apply here https://goo.gl/pMKjB2";
     margin: 30px 0px 0px 10px;
     position: absolute;
 }
@@ -2093,7 +2081,21 @@ body {
 #rcs-style-anchor-1.toggled { height: 35px !important; width: 85px !important;}
 #rcs-style-anchor-1.toggled:after { content: '';}
 
-/* New update */
+ /* Announcements */
+
+ /* New Year 
+
+ #app .logo-wrapper .plugdj-logo {
+    width: 32px;
+    height: 32px;
+    background: url("https://i.imgur.com/h0biwHW.png") no-repeat 0 0;
+}
+
+.icon-playlist:before {
+    content: url("https://i.imgur.com/f3eRKYi.png") !important;
+} 
+
+/* New Year */
 
 @keyframes rainbow {
     0% {
